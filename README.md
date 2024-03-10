@@ -1,8 +1,8 @@
-# ICASSP 2024
+# ICME 2024
 
 This repo contains the data and code for the following paper:
 
-Xinyu Wu, Xugong Qin, YongSheng Han, Peng Zhang, Sihang Yang, Xinjian Huang, Ming Zhou, Qinfeng Tan. Make It Simple: Efficient Rumor Detection with Dynamic Evolving Graph and CLIP-Guided Modality Alignment
+Xinyu Wu, Xugong Qin, YongSheng Han, Peng Zhang, Sihang Yang, Xinjian Huang, Ming Zhou, Qinfeng Tan. DSA: Dynamic, Shared, and Aligned Multimodal Modeling for Rumor Detection
 
 
 
