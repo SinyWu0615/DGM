@@ -2,7 +2,7 @@
 
 This repo contains the data and code for the following paper:
 
-Xinyu Wu, Xugong Qin, YongSheng Han, Peng Zhang, Sihang Yang, Xinjian Huang, Ming Zhou, Qinfeng Tan. DSA: Dynamic, Shared, and Aligned Multimodal Modeling for Rumor Detection
+Xinyu Wu, Xiaoxu Hu, Xugong Qin, Peng Zhang, Xinjian Huang, Gangyan Yan. Improving Multimodal Rumor Detection via Dynamic Graph Modeling
 
 
 
