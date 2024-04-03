@@ -1,4 +1,4 @@
-# ICME 2024
+# ICPR 2024
 
 This repo contains the data and code for the following paper:
 
